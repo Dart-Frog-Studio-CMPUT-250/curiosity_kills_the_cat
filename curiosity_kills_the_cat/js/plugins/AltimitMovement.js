@@ -4435,3 +4435,23 @@
   } )();
 
 } )();
+
+var Game_CharacterBase_update_for_ismoving = Game_CharacterBase.prototype.update;
+  Game_CharacterBase.prototype.update = function() {
+      //.isMoving doesn't really work in altimit
+      //this fixes it with the addition of a new function which I can use to tell
+      //if the character is actually like, moving
+      // the problem seems to be that the isMoving gets cleared midway through
+      // this update step (because the .updateMove in rpg_objects sets ._realX to equal .x)
+      // but lots of things break if I monkey around with _isMoving
+      // so I'm creating my own clone of it here.
+      // this is true if the character is in motion and false if they aren't.
+      if (this.isMoving())
+      {
+          this._inMotion=true;
+      }else{
+          this._inMotion=false;
+      }
+     
+    Game_CharacterBase_update_for_ismoving.call( this );
+}
