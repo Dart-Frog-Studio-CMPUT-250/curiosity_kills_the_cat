@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Neutral Room","order":1,"parentId":0,"scrollX":451,"scrollY":349.5},
+{"id":1,"expanded":true,"name":"Neutral Room","order":1,"parentId":0,"scrollX":819,"scrollY":453},
 {"id":2,"expanded":true,"name":"East Room","order":2,"parentId":1,"scrollX":819,"scrollY":453},
 null,
 {"id":4,"expanded":false,"name":"Duc's Playground","order":3,"parentId":0,"scrollX":819,"scrollY":453}
