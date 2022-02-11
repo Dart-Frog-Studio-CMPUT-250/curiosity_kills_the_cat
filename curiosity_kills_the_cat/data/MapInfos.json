@@ -1,7 +1,39 @@
 [
-null,
-{"id":1,"expanded":true,"name":"Neutral Room","order":1,"parentId":0,"scrollX":612,"scrollY":416.6666666666667},
-{"id":2,"expanded":true,"name":"East Room","order":2,"parentId":1,"scrollX":451,"scrollY":318.5},
-{"id":3,"expanded":false,"name":"West Room","order":3,"parentId":1,"scrollX":451,"scrollY":349.5},
-{"id":4,"expanded":false,"name":"Duc's Playground","order":4,"parentId":0,"scrollX":612,"scrollY":416.6666666666667}
+  null,
+  {
+    "id": 1,
+    "expanded": true,
+    "name": "Neutral Room",
+    "order": 1,
+    "parentId": 0,
+    "scrollX": 819,
+    "scrollY": 467.5
+  },
+  {
+    "id": 2,
+    "expanded": true,
+    "name": "East Room",
+    "order": 2,
+    "parentId": 1,
+    "scrollX": 819,
+    "scrollY": 467.5
+  },
+  {
+    "id": 3,
+    "expanded": false,
+    "name": "West Room",
+    "order": 3,
+    "parentId": 1,
+    "scrollX": 451,
+    "scrollY": 349.5
+  },
+  {
+    "id": 4,
+    "expanded": false,
+    "name": "Duc's Playground",
+    "order": 4,
+    "parentId": 0,
+    "scrollX": 819,
+    "scrollY": 453
+  }
 ]
