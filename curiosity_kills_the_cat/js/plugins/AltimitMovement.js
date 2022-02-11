@@ -4446,6 +4446,7 @@ var Game_CharacterBase_update_for_ismoving = Game_CharacterBase.prototype.update
       // but lots of things break if I monkey around with _isMoving
       // so I'm creating my own clone of it here.
       // this is true if the character is in motion and false if they aren't.
+      // CREDIT TO "Restart" ON RPG MAKER FORUM
       if (this.isMoving())
       {
           this._inMotion=true;
