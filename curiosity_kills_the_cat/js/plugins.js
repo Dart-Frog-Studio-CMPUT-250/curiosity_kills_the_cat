@@ -12,5 +12,6 @@ var $plugins =
 {"name":"DMY_SkipVideo","status":true,"description":"Skip video on key press","parameters":{"Disabler switch":"0"}},
 {"name":"ShakeScreen","status":true,"description":"Simply shakes the screen","parameters":{}},
 {"name":"TSR_MoveEvent","status":true,"description":"v1.4.0 This plugin allow to push, pull, pick-up and throw events.","parameters":{"Move Key":"ok","Move Event Offset":"12","Pickup Event Offset":"24","Effort Balloon Id":"11","Move Frame Rate":"4","---Sounds":"","Effort Sound":"","Push Sound":"","Mystery Music Effect":"","Pickup Sound":"","Throw Sound":"","Drop Sound":"","---Motion images":"","Pushing Character Image":"","Pulling Character Image":"","Pickup Character Image":"","Throw Character Image":""}},
-{"name":"GALV_DiagonalMovement","status":false,"description":"(v.1.5) Just a basic diagonal movement plugin. Written for compatibility with other Galv plugins.","parameters":{"Diagonal Mouse":"false","Diagonal Charset":"false","Diagonal Speed":"90","Block Diagonal":"false"}}
+{"name":"GALV_DiagonalMovement","status":false,"description":"(v.1.5) Just a basic diagonal movement plugin. Written for compatibility with other Galv plugins.","parameters":{"Diagonal Mouse":"false","Diagonal Charset":"false","Diagonal Speed":"90","Block Diagonal":"false"}},
+{"name":"HIME_CommonEventButtons","status":true,"description":"v1.1 - Allows you to execute common events with the press of a \r\nbutton on the map.","parameters":{}}
 ];
