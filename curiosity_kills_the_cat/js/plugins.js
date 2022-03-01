@@ -7,5 +7,6 @@ var $plugins =
 {"name":"DFS_Keymap","status":true,"description":"This plugin ables new keymap: WASD and V","parameters":{}},
 {"name":"ShakeScreen","status":true,"description":"Simply shakes the screen","parameters":{}},
 {"name":"TSR_MoveEvent","status":true,"description":"v1.4.0 This plugin allow to push, pull, pick-up and throw events.","parameters":{"Move Key":"ok","Move Event Offset":"12","Pickup Event Offset":"24","Effort Balloon Id":"11","Move Frame Rate":"4","---Sounds":"","Effort Sound":"","Push Sound":"push4, 100, 100, 0","Mystery Music Effect":"","Pickup Sound":"","Throw Sound":"","Drop Sound":"","---Motion images":"","Pushing Character Image":"","Pulling Character Image":"","Pickup Character Image":"","Throw Character Image":""}},
-{"name":"HIME_CommonEventButtons","status":true,"description":"v1.1 - Allows you to execute common events with the press of a \r\nbutton on the map.","parameters":{}}
+{"name":"HIME_CommonEventButtons","status":true,"description":"v1.1 - Allows you to execute common events with the press of a \r\nbutton on the map.","parameters":{}},
+{"name":"SRD_ShakingText","status":true,"description":"Allows you to add Shaking Text to your Show Text events!","parameters":{"Reset Shaking per Box":"true","Default Shaking Power":"$.randomNum(0.2, 0.3)","Default Shaking Max":"0.5","Default Wave Power":"0.5","Default Wave Max":"2","Default Slide Power":"0.5","Default Slide Max":"4","Copy Outline":"true"}}
 ];
