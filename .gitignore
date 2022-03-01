@@ -1,1 +1,4 @@
 curiosity_kills_the_cat.zip
+*
+!.gitignore
+!*/curiosity_kills_the_cat/img/
