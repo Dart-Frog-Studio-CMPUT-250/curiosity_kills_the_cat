@@ -1,4 +1,3 @@
-curiosity_kills_the_cat.zip
-*
-!.gitignore
-curiosity_kills_the_cat/js/plugins.js
+./curiosity_kills_the_cat/js/plugins.js
+./curiosity_kills_the_cat/save/**
+
