@@ -9,5 +9,5 @@ null,
 {"id":7,"expanded":false,"name":"West Room 1","order":7,"parentId":6,"scrollX":561.5,"scrollY":356},
 {"id":8,"expanded":false,"name":"West Room 2","order":8,"parentId":6,"scrollX":561.5,"scrollY":356},
 {"id":9,"expanded":false,"name":"final room","order":9,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":10,"expanded":false,"name":"forest","order":10,"parentId":0,"scrollX":561.5,"scrollY":356}
+{"id":10,"expanded":false,"name":"forest","order":10,"parentId":0,"scrollX":832,"scrollY":640}
 ]
