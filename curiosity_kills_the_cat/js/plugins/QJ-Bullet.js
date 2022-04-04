@@ -143,7 +143,7 @@
  *          "10|30~50|15~100|-20"
  *          It rotates 30 degrees clockwise at frame 10, 15 degrees clockwise at frame 50, and 20
  *          degrees counterclockwise at frame 100.
- *          This is defferent from 'Plugin Notice 6'.
+ *          This is different from 'Plugin Notice 6'.
  * ===============================================
  *      Regions:The default is [].List of regions where bullets disappear.
  *              e.g: [1,5]
