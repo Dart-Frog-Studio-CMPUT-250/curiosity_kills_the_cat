@@ -313,7 +313,7 @@
  *          Integer greater than 0: the bullet can attack the enemy only when the bullet speed is this value
  * ===============================================
  *      DeadAction:The default is false.
- *          whether the bullet performs action when it collieds with regions or terrains.
+ *          whether the bullet performs action when it collides with regions or terrains.
  * ===============================================
  *      PierceAction:The default is false.
  *          whether the bullet performs action when it pierce through Target character.
@@ -322,7 +322,7 @@
  *          whether the bullet performs action when the attribute 'Max' is reached.
  * ===============================================
  *      DeadAnim:The default is true.
- *          whether the bullet plays animation when it collieds with regions or terrains.
+ *          whether the bullet plays animation when it collides with regions or terrains.
  * ===============================================
  *      PierceAnim:The default is false.子弹进行穿透时,是否显示动画.
  *          whether the bullet plays animation when it pierce through Target character.
@@ -8260,6 +8260,7 @@ function QJFrame() {
     return QJB_Game_Interpreter_executeCommand.call(this);
   };
   QJ.BL.getEvent = () => {
+    console.log(QJBInter);
     return typeof QJBInter == "number"
       ? $gameMap.event(QJBInter)
       : $gameMap.event(QJBInter._eventId);
