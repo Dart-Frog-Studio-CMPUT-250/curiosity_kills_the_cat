@@ -8,8 +8,8 @@ null,
 {"id":6,"expanded":true,"name":"West 3","order":10,"parentId":8,"scrollX":612,"scrollY":430.6666666666667},
 {"id":7,"expanded":true,"name":"West 1","order":8,"parentId":0,"scrollX":612,"scrollY":430.6666666666667},
 {"id":8,"expanded":true,"name":"West 2","order":9,"parentId":7,"scrollX":612,"scrollY":430.6666666666667},
-{"id":9,"expanded":false,"name":"North","order":11,"parentId":0,"scrollX":1092,"scrollY":600.6666666666666},
-{"id":10,"expanded":false,"name":"Forest","order":3,"parentId":0,"scrollX":816,"scrollY":640},
-{"id":11,"expanded":false,"name":"Blank","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":12,"expanded":false,"name":"Buffer","order":2,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":9,"expanded":false,"name":"North","order":11,"parentId":0,"scrollX":601.3333333333334,"scrollY":601.3333333333334},
+{"id":10,"expanded":false,"name":"Forest","order":3,"parentId":0,"scrollX":902,"scrollY":650},
+{"id":11,"expanded":false,"name":"Blank","order":1,"parentId":0,"scrollX":612,"scrollY":430.6666666666667},
+{"id":12,"expanded":false,"name":"Buffer","order":2,"parentId":0,"scrollX":612,"scrollY":430.6666666666667}
 ]
