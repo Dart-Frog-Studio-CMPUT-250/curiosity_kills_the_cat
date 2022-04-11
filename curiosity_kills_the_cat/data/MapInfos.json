@@ -1,15 +1,17 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Buffer","order":10,"parentId":9,"scrollX":1404,"scrollY":801.4285714285713},
+{"id":1,"expanded":true,"name":"Buffer","order":12,"parentId":9,"scrollX":1404,"scrollY":801.4285714285713},
 {"id":2,"expanded":false,"name":"Cabin","order":1,"parentId":0,"scrollX":1404,"scrollY":801.4285714285713},
-{"id":3,"expanded":true,"name":"Castle","order":2,"parentId":0,"scrollX":819,"scrollY":467.5},
+{"id":3,"expanded":true,"name":"Castle","order":2,"parentId":0,"scrollX":1404,"scrollY":801.4285714285713},
 {"id":4,"expanded":false,"name":"Middle","order":3,"parentId":3,"scrollX":1404,"scrollY":801.4285714285713},
-{"id":5,"expanded":false,"name":"East","order":8,"parentId":3,"scrollX":819,"scrollY":467.5},
+{"id":5,"expanded":true,"name":"East 1","order":8,"parentId":0,"scrollX":540.6666666666666,"scrollY":312.3333333333333},
 {"id":6,"expanded":false,"name":"West 1","order":4,"parentId":3,"scrollX":1404,"scrollY":801.4285714285713},
 {"id":7,"expanded":true,"name":"North","order":6,"parentId":3,"scrollX":1390.2857142857142,"scrollY":1358.5714285714284},
-{"id":8,"expanded":false,"name":"Blank","order":11,"parentId":1,"scrollX":1404,"scrollY":801.4285714285713},
-{"id":9,"expanded":true,"name":"Forest","order":9,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"Blank","order":13,"parentId":1,"scrollX":1404,"scrollY":801.4285714285713},
+{"id":9,"expanded":true,"name":"Forest","order":11,"parentId":0,"scrollX":1404,"scrollY":801.4285714285713},
 {"id":10,"expanded":false,"name":"North Buffer","order":7,"parentId":7,"scrollX":1404,"scrollY":801.4285714285713},
 {"id":11,"expanded":false,"name":"West Buffer","order":5,"parentId":6,"scrollX":819,"scrollY":467.5},
-{"id":12,"expanded":false,"name":"Ending A","order":12,"parentId":0,"scrollX":816,"scrollY":800}
+{"id":12,"expanded":false,"name":"Ending A","order":14,"parentId":0,"scrollX":816,"scrollY":800},
+{"id":13,"expanded":true,"name":"East 2","order":9,"parentId":5,"scrollX":0,"scrollY":0},
+{"id":14,"expanded":false,"name":"East 3","order":10,"parentId":13,"scrollX":0,"scrollY":0}
 ]
