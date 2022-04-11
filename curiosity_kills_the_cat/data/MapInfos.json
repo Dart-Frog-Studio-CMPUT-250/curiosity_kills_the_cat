@@ -20,7 +20,7 @@ null,
 {"id":18,"expanded":true,"name":"East 3 Ancient","order":14,"parentId":14,"scrollX":819,"scrollY":467.5},
 {"id":19,"expanded":true,"name":"East 3 Future","order":13,"parentId":14,"scrollX":819,"scrollY":448},
 {"id":20,"expanded":false,"name":"Felix House","order":20,"parentId":2,"scrollX":1092,"scrollY":597.3333333333334},
-{"id":21,"expanded":true,"name":"Outside Felix House","order":21,"parentId":2,"scrollX":1081.3333333333333,"scrollY":686.6666666666666},
+{"id":21,"expanded":true,"name":"Outside Felix House","order":21,"parentId":2,"scrollX":1081.3333333333333,"scrollY":810.6666666666666},
 {"id":22,"expanded":false,"name":"Felix Winter","order":22,"parentId":21,"scrollX":1081.3333333333333,"scrollY":838.6666666666666},
 {"id":23,"expanded":true,"name":"Felix Normal","order":23,"parentId":21,"scrollX":1081.3333333333333,"scrollY":944}
 ]
