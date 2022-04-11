@@ -1,0 +1,23 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center>
+CREDITS
+
+\c[31]Curiosity Kills The Cat
+Degica
+RPG Maker MV
+
+\c[31]Executive Producer
+Nichole
+
+\c[31]Producer
+Alex Sainsbury
+
+\c[31]Thanks
+CMPUT 250
+</block>
+
+<block:999,0,10,10,300,center>
+THE END
+</block>

@@ -8260,7 +8260,6 @@ function QJFrame() {
     return QJB_Game_Interpreter_executeCommand.call(this);
   };
   QJ.BL.getEvent = () => {
-    console.log(QJBInter);
     return typeof QJBInter == "number"
       ? $gameMap.event(QJBInter)
       : $gameMap.event(QJBInter._eventId);
