@@ -4,10 +4,9 @@
 
 1. Link to Play: https://tienducho.itch.io/curiosity-kills-the-cat
 
-2. Link to Drive Folder containing Source Code: https://drive.google.com/drive/u/2/folders/1Hy-SmUqSw0UjHsPceQFKBHANg5PEVHGR
+2. Link to Source Code: [Here](https://drive.google.com/file/d/1l7g4p1vxHZ2A10-yFwK4zBMTRKN6fO-P/view?usp=sharing)
 
-3. Link to Download the Game: https://drive.google.com/file/d/1QtCOLW2-pLhnfK7DD-YRQ66fLM0gpWal/view?usp=sharing
-
+3. Link to Download the Game: [Here](https://drive.google.com/file/d/1o8DdZcIbWDzC4-9659maGEHHzy1pyGqV/view?usp=sharing)
 ## Control
 
 WASD + Arrow: Movement + Push Block
