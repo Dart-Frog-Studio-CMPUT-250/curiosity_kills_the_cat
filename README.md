@@ -32,6 +32,11 @@ Felix discovers a medallion amongst other objects that once belonged to his fath
 
 Curiosity Killed the Cat was created during the Winter 2022 semester for CMPT 250 at the University of Alberta
 
-## Credits
+## Plugins
 
-###
+1. YEP: SaveEventLocations, MessageCore
+1. HIME: CommonEventButtons
+1. GALV: Map Projectiles, MessageSoundEffect
+1. QJ: Bullet, SpawnEvent
+1. Shaz: TileChanger
+1. SRD: SuperToolsEngine, HUDMaker, ShakingTest
