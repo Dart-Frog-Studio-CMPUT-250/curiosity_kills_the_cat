@@ -422,7 +422,9 @@
  * 7.Construct an Collider at the specified place and execute action on the target collided with this collider.
  *  The collision body disappears directly after one detection. It is equivalent to a flashing bullet.
  *
- *   QJ.BL.DirectAction(X,Y,CollisionBox,Action,Target);
+ *   QJ.BL.Direct
+ *
+ * (X,Y,CollisionBox,Action,Target);
  * ================================================================
  * 8.Get the number of bullets at this time.
  *
