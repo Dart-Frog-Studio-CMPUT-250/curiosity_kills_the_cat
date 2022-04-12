@@ -4,7 +4,9 @@
 
 1. Link to Play: https://tienducho.itch.io/curiosity-kills-the-cat
 
-2. Link to Download the Zip: https://drive.google.com/file/d/1jqVrvc7l8KP_tBC44CEMrOZuJuWr86ty/view?usp=sharing
+2. Link to Drive Folder containing Source Code: https://drive.google.com/drive/u/2/folders/1Hy-SmUqSw0UjHsPceQFKBHANg5PEVHGR
+
+3. Link to Download the Game: https://drive.google.com/file/d/1QtCOLW2-pLhnfK7DD-YRQ66fLM0gpWal/view?usp=sharing
 
 ## Control
 
