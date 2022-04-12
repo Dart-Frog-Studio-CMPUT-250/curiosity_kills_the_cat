@@ -39,4 +39,7 @@ Curiosity Killed the Cat was created during the Winter 2022 semester for CMPT 25
 1. GALV: Map Projectiles, MessageSoundEffect
 1. QJ: Bullet, SpawnEvent
 1. Shaz: TileChanger
-1. SRD: SuperToolsEngine, HUDMaker, ShakingTest
+1. SRD: SuperToolsEngine, HUDMaker, ShakingText, CreditPlugin
+1. TheoAllen: ShakeScreen
+1. RS: MessageAlign
+1. Khas: Core, Graphics, HintSystem, UltraLighting, AdvancedFog
