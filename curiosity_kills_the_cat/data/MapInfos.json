@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Buffer","order":23,"parentId":9,"scrollX":805,"scrollY":603},
-{"id":2,"expanded":false,"name":"Opening","order":26,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"Opening","order":26,"parentId":0,"scrollX":579,"scrollY":355.5},
 {"id":3,"expanded":true,"name":"Castle","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"Middle","order":2,"parentId":3,"scrollX":816,"scrollY":644},
+{"id":4,"expanded":false,"name":"Middle","order":2,"parentId":3,"scrollX":571,"scrollY":798.5},
 {"id":5,"expanded":true,"name":"East 1","order":14,"parentId":3,"scrollX":813,"scrollY":444},
 {"id":6,"expanded":true,"name":"West 1","order":3,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":7,"expanded":true,"name":"North","order":8,"parentId":3,"scrollX":805,"scrollY":840},
