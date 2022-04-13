@@ -6585,11 +6585,13 @@ function QJFrame() {
           r: bulletR,
           extra: bullet.commonEventExtraData || {},
         });
-      } else if (data[0] == "S" && data[1] == "S" && eid != 0) {
-        let detail = data.substr(3, data.length - 4).split(",");
-        let key = [$gameMap.mapId(), eid, detail[0]];
-        let result = detail[1] == "true" ? true : false;
-        $gameSelfSwitches.setValue(key, result);
+      } else if (data[0] == "S" && data[1] == "S") {
+        if (eid != 0) {
+          let detail = data.substr(3, data.length - 4).split(",");
+          let key = [$gameMap.mapId(), eid, detail[0]];
+          let result = detail[1] == "true" ? true : false;
+          $gameSelfSwitches.setValue(key, result);
+        }
       } else if (data[0] == "S") {
         let detail = eval(data.match(/\[[^\]]*\]/i)[0]);
         if (!detail) return;
